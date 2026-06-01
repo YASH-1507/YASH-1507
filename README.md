@@ -1,8 +1,8 @@
 # Yash Joshi
  
-**IT & Cloud Security Graduate · CompTIA Security+ Certified**
+**IT & Cloud Security Professional · CompTIA Security+ Certified**
  
-Focused on Security Operations, Cloud Security, and building practical tools that bridge detection and automation.
+Focused on Security Operations, IT ADMIIN, Cloud Security, and building practical tools that bridge detection and automation.
  
 ---
  
